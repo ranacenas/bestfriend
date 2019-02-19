@@ -21,7 +21,7 @@ When setting up the task schedule, in the `Start in` section, put down the path 
 
 Tip: Hide the folder so people won't see it.
 
-### It is important to keep all the files all in one folder to ensure everything runs smoothly. If the .ini file or .bat file are not in the same folder as the python script or the .exe, it will not run correctly. 
+### It is important to keep all the files all in one folder to ensure everything runs smoothly. If the pw.ini file or clearall.bat file are not in the same folder as the python script or the .exe, it will not run correctly. 
 
 ## What if I forget my password?
 
