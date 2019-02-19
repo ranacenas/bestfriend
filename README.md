@@ -11,6 +11,8 @@ Even though you should use incognito, there is probably some information on chro
 
 ## How to use
 
+#### Executable 
+
 1) Simply download as a ZIP and extract. 
 
 2) Run the program the first time to set up a password.
@@ -19,9 +21,20 @@ Even though you should use incognito, there is probably some information on chro
 
 When setting up the task schedule, in the `Start in` section, put down the path of where the program is. ex. C:\\Path\to\folder\bestfriend
 
+#### Python script
+
+1) Download as a ZIP and extract.
+
+2) Run the program and set up a password.
+
+3) Set up a task schedule to run the program manually. 
+
+When setting up the task schedule, the program you want to execute is python.exe so you wil have to copy and paste the path the python.exe is on. And then in the `'Add arguments'` section, input the path of the script like so: C:\\path\to\bestfriend\windows_bestfriend_cmd.py. Lastly, in the `'Start in'` section, input the path of where the script is located like so C:\\path\to\bestfriend. 
+
 Tip: Hide the folder so people won't see it.
 
-### It is important to keep all the files all in one folder to ensure everything runs smoothly. If the pw.ini file or clearall.bat file are not in the same folder as the python script or the .exe, it will not run correctly. 
+
+### Note: It is important to keep all the files all in one folder to ensure everything runs smoothly. If the pw.ini file or clearall.bat file are not in the same folder as the python script or the .exe, it will not run correctly. 
 
 ## What if I forget my password?
 
