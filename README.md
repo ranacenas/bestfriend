@@ -1,6 +1,9 @@
 ## WARNING! By downloading this program, you are aware that this program will potentially delete all chrome data permanently. I am not responsible for any corruption or loss of data. Please use at your discretion.
 
 
+Full tutorial here: https://ranacenas.me/blog/blog/4/
+
+
 ## About
 
 #### Currently, this version only deletes chrome data and is only available on Windows. I have a linux version that I'm still working on.
