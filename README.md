@@ -3,7 +3,7 @@
 
 ## About
 
-#### Currently, this version only deletes chrome data and is only available on Windows
+#### Currently, this version only deletes chrome data and is only available on Windows. I have a linux version that I'm still working on.
 
 Even though you should use incognito, there is probably some information on chrome that you don't want family, friends, or strangers to see. Therefore, I created a very simple program that deletes all chrome (for now - working on expanding to more browsers) data on Windows if the password is incorrect. For example, let's say you were gone for a while and somehow a person was able to access your computer. With this program, you can ask whoever is currently using the computer to input a password. If that password is incorrect, it will trigger the batch file and delete all chrome data. If you use the executable, closing the executable window will also trigger the batch file which will then delete all chrome data. 
 
